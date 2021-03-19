@@ -1,0 +1,7 @@
+C:\Users\paulw\source\repos\CppAndCs\CppAndCs\bin\Debug\CppAndCs.exe.config
+C:\Users\paulw\source\repos\CppAndCs\CppAndCs\bin\Debug\CppAndCs.exe
+C:\Users\paulw\source\repos\CppAndCs\CppAndCs\bin\Debug\CppAndCs.pdb
+C:\Users\paulw\source\repos\CppAndCs\CppAndCs\obj\Debug\CppAndCs.csprojAssemblyReference.cache
+C:\Users\paulw\source\repos\CppAndCs\CppAndCs\obj\Debug\CppAndCs.csproj.CoreCompileInputs.cache
+C:\Users\paulw\source\repos\CppAndCs\CppAndCs\obj\Debug\CppAndCs.exe
+C:\Users\paulw\source\repos\CppAndCs\CppAndCs\obj\Debug\CppAndCs.pdb
